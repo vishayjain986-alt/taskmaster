@@ -73,11 +73,7 @@ The app uses **Redux Toolkit** for state management. Tasks are stored in the Red
 - 📅 Task due date reminder
 - 📊 Task categories and filters
 
-## 📬 Contact
-If you have any questions or suggestions, feel free to contact me at (mailto: yashpalav100@gmail.com).
 
----
 
-**GitHub Repository Link:** [https://github.com/YashPalav26/TodoReact](https://github.com/YashPalav26/TodoReact)
 
 
